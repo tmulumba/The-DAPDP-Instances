@@ -7,7 +7,9 @@ The first line of each instance file indicates the number of requests/ customers
 
 We include an extra file, Parameters, which provides information about the value of the parameters in the main configuration of the problem. These parameters are:
 •	TruckSpeed: Truck speed (miles per hour).
+
 •	DroneSpeed: Truck speed (miles per hour).
+
 •	TruckCapacityWithDrones: Truck load capacity with drone (kg).
 •	TruckCapacityWithoutDrones: Truck load capacity without drone (kg)
 •	DroneCapacity: Drone load capacity (kg).
