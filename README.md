@@ -1,7 +1,7 @@
 # The-DAPDP-Instances
 The Drone-Assisted Pickup and Delivery Problem Instances
 
-The following instances are originally presented in the paper The drone-assisted pickup and delivery problem: An adaptive large neighborhood search metaheuristic, written by Timothy Mulumba, Waleed Najy, and Ali Diabat, and published in Computers & Operations Research.
+The following instances are originally presented in the dissertation "Optimization Methods for the drone-assisted pickup and delivery problem" by Timothy Mulumba and published in ProQuest.
 
 The data correspond to 92 instances corresponding to different scenarios for the Drone-Assisted Pickup and Delivery Problem. Each instance is named x.y.z, where x is the number of customers in the scenario, y is the dimension of the grid, and z is the generic name of the scenario. 
 The first line of each instance file indicates the number of requests/ customers in the specific instance. The second line is the header for the characteristics of each request/ customer. These characteristics are Pickup Coordinate X, Pickup Coordinate Y, Dropoff Coordinate X, Dropoff Coordinate Y and Demand. The rows that follow contain the respective numeric values for each request.
