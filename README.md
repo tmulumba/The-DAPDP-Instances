@@ -3,7 +3,7 @@ The Drone-Assisted Pickup and Delivery Problem Instances
 
 The following instances are originally presented in the dissertation "Optimization Methods for the Drone-Assisted Pickup and Delivery Problem" by Timothy Mulumba and published in ProQuest.
 
-The data correspond to 92 instances corresponding to different scenarios for the Drone-Assisted Pickup and Delivery Problem. Each instance is named x.y.z, where x is the number of customers in the scenario, y is the dimension of the grid, and z is the generic name of the scenario. 
+The data correspond to 108 instances corresponding to different scenarios for the Drone-Assisted Pickup and Delivery Problem. Each instance is named x.y.z, where x is the number of customers in the scenario, y is the dimension of the grid, and z is the generic name of the scenario. 
 The first line of each instance file indicates the number of requests/ customers in the specific instance. The second line is the header for the characteristics of each request/ customer. These characteristics are Pickup Coordinate X, Pickup Coordinate Y, Dropoff Coordinate X, Dropoff Coordinate Y and Demand. The rows that follow contain the respective numeric values for each request.
 
 We include an extra file, Parameters, which provides information about the value of the parameters in the main configuration of the problem. These parameters are:
